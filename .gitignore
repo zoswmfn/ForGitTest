@@ -39,6 +39,7 @@ sysinfo.txt
 */obj
 */Temp
 */.vs
+
 */*/Library
 */*/UnityPackageManager
 */*/obj
@@ -48,3 +49,4 @@ sysinfo.txt
 *.sln
 
 *.txta
+folderA/
