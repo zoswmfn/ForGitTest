@@ -32,3 +32,18 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+
+*/Library
+*/UnityPackageManager
+*/obj
+*/Temp
+*/.vs
+*/*/Library
+*/*/UnityPackageManager
+*/*/obj
+*/*/Temp
+*/*/.vs
+*.csproj
+*.sln
+
